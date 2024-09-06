@@ -57,21 +57,27 @@ Database files go in [database/](app/database).
 
 ## How to Compile and Run the Project
 
-Step 1: Clone the Repository:
+## Way 1: Using Microsoft Visual Studio IDE 
 
-Clone the repository to your local machine:
+  1. Open Microsoft Visual Studio IDE.
+  2. Choose `Clone a repository`.
+  3. Copy this url
+  ```bash
+  https://github.com/Mahmoud-M-Saad/Library-System.git
+  ```
+  4. Open Library-System --> app --> main.cpp
+  5. Run the compiler or click f5. 
 
-```bash
-git clone https://github.com/Mahmoud-M-Saad/Library-System.git
-cd Library-System
-```
+## Way 2: Using Bash 
 
-Step 2: Compile the Project:
+  1. Clone the repository to your local machine:
 
-Use a C++ compiler like Microsoft Visual Studio to compile the project
-  - go to app -> main.cpp
-  - run the project
+  ```bash
+  git clone https://github.com/Mahmoud-M-Saad/Library-System.git
+  cd Library-System
+  ```
 
+  2. Run the compiler.
 
 ## Finally
 
