@@ -51,9 +51,9 @@ To compile and run this project, you'll need:
 ```
 
 Main program go in [app/](app),
-Sources go in [src/](src/),
-Header files go in [header/](header/), 
-Database files go in [database/](database/).
+Sources go in [src/](src),
+Header files go in [header/](header), 
+Database files go in [database/](database).
 
 ## How to Compile and Run the Project
 
@@ -62,7 +62,7 @@ Step 1: Clone the Repository:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Mahmoud-M-Saad/Library-System.git
 cd Library-System
 ```
 
