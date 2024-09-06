@@ -44,9 +44,10 @@ To compile and run this project, you'll need:
 │    │       ├── generalFunctions.cpp
 │    │       └── user.cpp
 │    └── main.cpp
+├── .gitignore
 ├── CMakeLists.txt
 ├── CMakePresets.json
-└── .gitignore
+└── README.md
 
 ```
 
