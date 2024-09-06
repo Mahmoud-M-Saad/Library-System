@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 0,
+        "author": "Author",
+        "copies": 0,
+        "description": "Description",
+        "owned": 0,
+        "section": 65,
+        "title": "Title"
+    },
+    {
+        "ID": 1,
+        "author": "Charles Dickens",
+        "copies": 1,
+        "description": "Journey from an unhappy childhood to a successful novelist",
+        "owned": 1,
+        "section": 88,
+        "title": "David Copperfield"
+    },
+    {
+        "ID": 2,
+        "author": "Herman Melville",
+        "copies": 2,
+        "description": "Captain want to hunt down a giant whale",
+        "owned": 2,
+        "section": 77,
+        "title": "Moby-Dick"
+    },
+    {
+        "ID": 3,
+        "author": "Charles Dickens",
+        "copies": 0,
+        "description": "Orphan boy forced into unjust and cruel situations",
+        "owned": 0,
+        "section": 68,
+        "title": "Oliver Twist"
+    }
+]

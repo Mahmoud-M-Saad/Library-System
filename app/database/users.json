@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 0,
+        "email": "admin@mail.com",
+        "name": "M Saad",
+        "password": "123456789",
+        "phone": "01001946432",
+        "role": "Admin"
+    },
+    {
+        "ID": 1,
+        "email": "cust@mail.com",
+        "name": "Mahmoud Saad",
+        "password": "987654321",
+        "phone": "01001946432",
+        "role": "Customer"
+    }
+]
