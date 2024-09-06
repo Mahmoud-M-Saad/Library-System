@@ -51,9 +51,9 @@ To compile and run this project, you'll need:
 ```
 
 Main program go in [app/](app),
-Sources go in [app/src/](app/src),
-Header files go in [app/header/](app/header), 
-Database files go in [app/database/](app/database).
+Sources go in [src/](app/src),
+Header files go in [header/](app/header), 
+Database files go in [database/](app/database).
 
 ## How to Compile and Run the Project
 
